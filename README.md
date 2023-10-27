@@ -1,2 +1,20 @@
 # salerSystemV1
-Este projeto está em desenvolvimento. O sistema terá como principal objetivo realizar vendas dos produtos em portfólio.
+Project sample saler products
+
+# Este projeto está em desenolvimento
+
+O projeto tem como objetivo realizar vendas dos produtos em portfólio.
+
+
+## Back end
+
+**java**||
+**jwt**||
+**docker**||
+**mysql**||
+
+## Front end
+
+**Angular**
+
+
